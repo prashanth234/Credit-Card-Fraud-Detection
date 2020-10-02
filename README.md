@@ -9,8 +9,4 @@ Validation data consists of 250 records out of which 173 are fraud cases and 77 
 
 Result:
 
-Out of 173 fraud cases 97 are predicted correctly.
-
-Out of 77 non fraud cases 65 are predicted correctly.
-
-Overall accuracy of 65% is achieved.
+Overall accuracy of 70% is achieved on Test Data.
